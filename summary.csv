@@ -1,0 +1,25 @@
+"","BOROUGH","season","total_crashes","total_injuries","total_fatalities","dangerous_conditions_pct","average_danger_rating"
+"1","OTHER","Fall",1609,1021,7,0.51,0.17
+"2","OTHER","Spring",2662,1654,10,0.48,0.47
+"3","OTHER","Summer",2570,1607,7,0.71,0.3
+"4","OTHER","Winter",2495,1398,13,0.61,1.01
+"5","BRONX","Fall",533,309,1,0.51,0.18
+"6","BRONX","Spring",922,443,2,0.47,0.45
+"7","BRONX","Summer",874,459,2,0.74,0.29
+"8","BRONX","Winter",839,394,0,0.58,1
+"9","BROOKLYN","Fall",1308,722,3,0.52,0.17
+"10","BROOKLYN","Spring",1912,960,5,0.45,0.46
+"11","BROOKLYN","Summer",1937,1062,5,0.72,0.32
+"12","BROOKLYN","Winter",1688,832,2,0.62,1.06
+"13","MANHATTAN","Fall",654,313,3,0.53,0.18
+"14","MANHATTAN","Spring",1004,411,2,0.46,0.48
+"15","MANHATTAN","Summer",1090,569,4,0.71,0.3
+"16","MANHATTAN","Winter",846,338,1,0.63,1.09
+"17","QUEENS","Fall",948,529,0,0.49,0.17
+"18","QUEENS","Spring",1452,716,1,0.47,0.46
+"19","QUEENS","Summer",1455,770,4,0.72,0.29
+"20","QUEENS","Winter",1346,651,3,0.61,1.01
+"21","STATEN ISLAND","Fall",149,69,1,0.45,0.17
+"22","STATEN ISLAND","Spring",214,111,1,0.48,0.58
+"23","STATEN ISLAND","Summer",248,121,0,0.75,0.3
+"24","STATEN ISLAND","Winter",199,83,1,0.62,1.09
