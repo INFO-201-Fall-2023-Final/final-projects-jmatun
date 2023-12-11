@@ -1,0 +1,363 @@
+"","season","CONTRIBUTING.FACTOR.VEHICLE.1","weather","count"
+"1","Fall","","Clear",18
+"2","Fall","","Rain",18
+"3","Fall","Accelerator Defective","Clear",1
+"4","Fall","Accelerator Defective","Rain",1
+"5","Fall","Aggressive Driving/Road Rage","Clear",31
+"6","Fall","Aggressive Driving/Road Rage","Rain",29
+"7","Fall","Alcohol Involvement","Clear",48
+"8","Fall","Alcohol Involvement","Rain",50
+"9","Fall","Animals Action","Clear",5
+"10","Fall","Animals Action","Rain",4
+"11","Fall","Backing Unsafely","Clear",61
+"12","Fall","Backing Unsafely","Rain",74
+"13","Fall","Brakes Defective","Clear",10
+"14","Fall","Brakes Defective","Rain",12
+"15","Fall","Cell Phone (hand-Held)","Rain",2
+"16","Fall","Driver Inattention/Distraction","Clear",637
+"17","Fall","Driver Inattention/Distraction","Rain",629
+"18","Fall","Driver Inexperience","Clear",60
+"19","Fall","Driver Inexperience","Rain",64
+"20","Fall","Driverless/Runaway Vehicle","Clear",5
+"21","Fall","Driverless/Runaway Vehicle","Rain",3
+"22","Fall","Drugs (illegal)","Clear",4
+"23","Fall","Drugs (illegal)","Rain",1
+"24","Fall","Failure to Keep Right","Clear",5
+"25","Fall","Failure to Keep Right","Rain",2
+"26","Fall","Failure to Yield Right-of-Way","Clear",171
+"27","Fall","Failure to Yield Right-of-Way","Rain",191
+"28","Fall","Fatigued/Drowsy","Clear",5
+"29","Fall","Fatigued/Drowsy","Rain",1
+"30","Fall","Fell Asleep","Clear",7
+"31","Fall","Fell Asleep","Rain",16
+"32","Fall","Following Too Closely","Clear",168
+"33","Fall","Following Too Closely","Rain",140
+"34","Fall","Glare","Clear",2
+"35","Fall","Glare","Rain",1
+"36","Fall","Headlights Defective","Rain",1
+"37","Fall","Illnes","Clear",11
+"38","Fall","Illnes","Rain",4
+"39","Fall","Lane Marking Improper/Inadequate","Rain",2
+"40","Fall","Lost Consciousness","Clear",3
+"41","Fall","Lost Consciousness","Rain",2
+"42","Fall","Obstruction/Debris","Clear",6
+"43","Fall","Obstruction/Debris","Rain",8
+"44","Fall","Other Vehicular","Clear",77
+"45","Fall","Other Vehicular","Rain",85
+"46","Fall","Outside Car Distraction","Clear",9
+"47","Fall","Outside Car Distraction","Rain",6
+"48","Fall","Oversized Vehicle","Clear",9
+"49","Fall","Oversized Vehicle","Rain",12
+"50","Fall","Passenger Distraction","Clear",9
+"51","Fall","Passenger Distraction","Rain",3
+"52","Fall","Passing Too Closely","Clear",84
+"53","Fall","Passing Too Closely","Rain",85
+"54","Fall","Passing or Lane Usage Improper","Clear",116
+"55","Fall","Passing or Lane Usage Improper","Rain",107
+"56","Fall","Pavement Defective","Clear",2
+"57","Fall","Pavement Defective","Rain",2
+"58","Fall","Pavement Slippery","Clear",4
+"59","Fall","Pavement Slippery","Rain",32
+"60","Fall","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Clear",44
+"61","Fall","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Rain",29
+"62","Fall","Prescription Medication","Rain",1
+"63","Fall","Reaction to Uninvolved Vehicle","Clear",25
+"64","Fall","Reaction to Uninvolved Vehicle","Rain",33
+"65","Fall","Steering Failure","Clear",2
+"66","Fall","Steering Failure","Rain",6
+"67","Fall","Tire Failure/Inadequate","Clear",3
+"68","Fall","Tire Failure/Inadequate","Rain",4
+"69","Fall","Traffic Control Device Improper/Non-Working","Rain",1
+"70","Fall","Traffic Control Disregarded","Clear",73
+"71","Fall","Traffic Control Disregarded","Rain",90
+"72","Fall","Turning Improperly","Clear",67
+"73","Fall","Turning Improperly","Rain",81
+"74","Fall","Unsafe Lane Changing","Clear",44
+"75","Fall","Unsafe Lane Changing","Rain",58
+"76","Fall","Unsafe Speed","Clear",83
+"77","Fall","Unsafe Speed","Rain",94
+"78","Fall","Unspecified","Clear",608
+"79","Fall","Unspecified","Rain",651
+"80","Fall","Using On Board Navigation Device","Rain",1
+"81","Fall","View Obstructed/Limited","Clear",19
+"82","Fall","View Obstructed/Limited","Rain",29
+"83","Spring","","Clear",19
+"84","Spring","","Rain",40
+"85","Spring","Accelerator Defective","Clear",2
+"86","Spring","Accelerator Defective","Rain",5
+"87","Spring","Aggressive Driving/Road Rage","Clear",26
+"88","Spring","Aggressive Driving/Road Rage","Rain",43
+"89","Spring","Alcohol Involvement","Clear",56
+"90","Spring","Alcohol Involvement","Rain",100
+"91","Spring","Animals Action","Clear",1
+"92","Spring","Animals Action","Rain",3
+"93","Spring","Backing Unsafely","Clear",83
+"94","Spring","Backing Unsafely","Rain",182
+"95","Spring","Brakes Defective","Clear",7
+"96","Spring","Brakes Defective","Rain",20
+"97","Spring","Cell Phone (hand-Held)","Clear",1
+"98","Spring","Cell Phone (hand-Held)","Rain",1
+"99","Spring","Driver Inattention/Distraction","Clear",648
+"100","Spring","Driver Inattention/Distraction","Rain",1404
+"101","Spring","Driver Inexperience","Clear",55
+"102","Spring","Driver Inexperience","Rain",105
+"103","Spring","Driverless/Runaway Vehicle","Clear",1
+"104","Spring","Driverless/Runaway Vehicle","Rain",12
+"105","Spring","Drugs (illegal)","Clear",1
+"106","Spring","Drugs (illegal)","Rain",8
+"107","Spring","Failure to Keep Right","Clear",3
+"108","Spring","Failure to Keep Right","Rain",5
+"109","Spring","Failure to Yield Right-of-Way","Clear",177
+"110","Spring","Failure to Yield Right-of-Way","Rain",412
+"111","Spring","Fatigued/Drowsy","Clear",4
+"112","Spring","Fatigued/Drowsy","Rain",9
+"113","Spring","Fell Asleep","Clear",13
+"114","Spring","Fell Asleep","Rain",23
+"115","Spring","Following Too Closely","Clear",149
+"116","Spring","Following Too Closely","Rain",350
+"117","Spring","Glare","Clear",5
+"118","Spring","Glare","Rain",6
+"119","Spring","Illnes","Clear",4
+"120","Spring","Illnes","Rain",11
+"121","Spring","Lane Marking Improper/Inadequate","Clear",1
+"122","Spring","Lane Marking Improper/Inadequate","Rain",4
+"123","Spring","Lost Consciousness","Clear",10
+"124","Spring","Lost Consciousness","Rain",12
+"125","Spring","Obstruction/Debris","Clear",4
+"126","Spring","Obstruction/Debris","Rain",10
+"127","Spring","Other Vehicular","Clear",85
+"128","Spring","Other Vehicular","Rain",156
+"129","Spring","Outside Car Distraction","Clear",6
+"130","Spring","Outside Car Distraction","Rain",11
+"131","Spring","Oversized Vehicle","Clear",11
+"132","Spring","Oversized Vehicle","Rain",25
+"133","Spring","Passenger Distraction","Clear",12
+"134","Spring","Passenger Distraction","Rain",18
+"135","Spring","Passing Too Closely","Clear",87
+"136","Spring","Passing Too Closely","Rain",191
+"137","Spring","Passing or Lane Usage Improper","Clear",126
+"138","Spring","Passing or Lane Usage Improper","Rain",274
+"139","Spring","Pavement Defective","Clear",1
+"140","Spring","Pavement Defective","Rain",5
+"141","Spring","Pavement Slippery","Clear",3
+"142","Spring","Pavement Slippery","Rain",66
+"143","Spring","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Clear",19
+"144","Spring","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Rain",59
+"145","Spring","Physical Disability","Clear",2
+"146","Spring","Physical Disability","Rain",1
+"147","Spring","Prescription Medication","Rain",2
+"148","Spring","Reaction to Uninvolved Vehicle","Clear",33
+"149","Spring","Reaction to Uninvolved Vehicle","Rain",55
+"150","Spring","Steering Failure","Clear",7
+"151","Spring","Steering Failure","Rain",9
+"152","Spring","Tire Failure/Inadequate","Clear",5
+"153","Spring","Tire Failure/Inadequate","Rain",6
+"154","Spring","Tow Hitch Defective","Rain",3
+"155","Spring","Traffic Control Device Improper/Non-Working","Rain",4
+"156","Spring","Traffic Control Disregarded","Clear",80
+"157","Spring","Traffic Control Disregarded","Rain",162
+"158","Spring","Turning Improperly","Clear",52
+"159","Spring","Turning Improperly","Rain",152
+"160","Spring","Unsafe Lane Changing","Clear",42
+"161","Spring","Unsafe Lane Changing","Rain",111
+"162","Spring","Unsafe Speed","Clear",104
+"163","Spring","Unsafe Speed","Rain",209
+"164","Spring","Unspecified","Clear",566
+"165","Spring","Unspecified","Rain",1303
+"166","Spring","Vehicle Vandalism","Rain",2
+"167","Spring","View Obstructed/Limited","Clear",17
+"168","Spring","View Obstructed/Limited","Rain",48
+"169","Spring","Windshield Inadequate","Rain",1
+"170","Summer","","Clear",7
+"171","Summer","","Rain",35
+"172","Summer","Accelerator Defective","Clear",3
+"173","Summer","Accelerator Defective","Rain",3
+"174","Summer","Aggressive Driving/Road Rage","Clear",13
+"175","Summer","Aggressive Driving/Road Rage","Rain",53
+"176","Summer","Alcohol Involvement","Clear",18
+"177","Summer","Alcohol Involvement","Rain",124
+"178","Summer","Animals Action","Rain",2
+"179","Summer","Backing Unsafely","Clear",44
+"180","Summer","Backing Unsafely","Rain",200
+"181","Summer","Brakes Defective","Clear",13
+"182","Summer","Brakes Defective","Rain",24
+"183","Summer","Cell Phone (hand-Held)","Clear",1
+"184","Summer","Cell Phone (hand-Held)","Rain",2
+"185","Summer","Driver Inattention/Distraction","Clear",418
+"186","Summer","Driver Inattention/Distraction","Rain",1736
+"187","Summer","Driver Inexperience","Clear",32
+"188","Summer","Driver Inexperience","Rain",159
+"189","Summer","Driverless/Runaway Vehicle","Clear",1
+"190","Summer","Driverless/Runaway Vehicle","Rain",4
+"191","Summer","Drugs (illegal)","Clear",2
+"192","Summer","Drugs (illegal)","Rain",8
+"193","Summer","Failure to Keep Right","Clear",1
+"194","Summer","Failure to Keep Right","Rain",9
+"195","Summer","Failure to Yield Right-of-Way","Clear",91
+"196","Summer","Failure to Yield Right-of-Way","Rain",426
+"197","Summer","Fatigued/Drowsy","Rain",9
+"198","Summer","Fell Asleep","Clear",7
+"199","Summer","Fell Asleep","Rain",23
+"200","Summer","Following Too Closely","Clear",96
+"201","Summer","Following Too Closely","Rain",450
+"202","Summer","Glare","Rain",7
+"203","Summer","Illnes","Clear",4
+"204","Summer","Illnes","Rain",11
+"205","Summer","Lane Marking Improper/Inadequate","Clear",1
+"206","Summer","Lane Marking Improper/Inadequate","Rain",1
+"207","Summer","Lost Consciousness","Clear",8
+"208","Summer","Lost Consciousness","Rain",15
+"209","Summer","Obstruction/Debris","Clear",3
+"210","Summer","Obstruction/Debris","Rain",9
+"211","Summer","Other Vehicular","Clear",36
+"212","Summer","Other Vehicular","Rain",186
+"213","Summer","Outside Car Distraction","Clear",3
+"214","Summer","Outside Car Distraction","Rain",14
+"215","Summer","Oversized Vehicle","Clear",9
+"216","Summer","Oversized Vehicle","Rain",25
+"217","Summer","Passenger Distraction","Clear",5
+"218","Summer","Passenger Distraction","Rain",15
+"219","Summer","Passing Too Closely","Clear",53
+"220","Summer","Passing Too Closely","Rain",205
+"221","Summer","Passing or Lane Usage Improper","Clear",77
+"222","Summer","Passing or Lane Usage Improper","Rain",293
+"223","Summer","Pavement Defective","Clear",1
+"224","Summer","Pavement Defective","Rain",8
+"225","Summer","Pavement Slippery","Clear",1
+"226","Summer","Pavement Slippery","Rain",16
+"227","Summer","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Clear",17
+"228","Summer","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Rain",86
+"229","Summer","Prescription Medication","Rain",2
+"230","Summer","Reaction to Uninvolved Vehicle","Clear",19
+"231","Summer","Reaction to Uninvolved Vehicle","Rain",82
+"232","Summer","Shoulders Defective/Improper","Rain",1
+"233","Summer","Steering Failure","Clear",1
+"234","Summer","Steering Failure","Rain",17
+"235","Summer","Tinted Windows","Rain",3
+"236","Summer","Tire Failure/Inadequate","Clear",3
+"237","Summer","Tire Failure/Inadequate","Rain",12
+"238","Summer","Tow Hitch Defective","Rain",1
+"239","Summer","Traffic Control Device Improper/Non-Working","Clear",1
+"240","Summer","Traffic Control Disregarded","Clear",55
+"241","Summer","Traffic Control Disregarded","Rain",200
+"242","Summer","Turning Improperly","Clear",27
+"243","Summer","Turning Improperly","Rain",173
+"244","Summer","Unsafe Lane Changing","Clear",45
+"245","Summer","Unsafe Lane Changing","Rain",142
+"246","Summer","Unsafe Speed","Clear",70
+"247","Summer","Unsafe Speed","Rain",258
+"248","Summer","Unspecified","Clear",323
+"249","Summer","Unspecified","Rain",1547
+"250","Summer","Vehicle Vandalism","Clear",1
+"251","Summer","Vehicle Vandalism","Rain",1
+"252","Summer","View Obstructed/Limited","Clear",13
+"253","Summer","View Obstructed/Limited","Rain",54
+"254","Winter","","Clear",9
+"255","Winter","","Rain",46
+"256","Winter","","Snow",1
+"257","Winter","Accelerator Defective","Clear",4
+"258","Winter","Accelerator Defective","Rain",5
+"259","Winter","Aggressive Driving/Road Rage","Clear",13
+"260","Winter","Aggressive Driving/Road Rage","Rain",46
+"261","Winter","Alcohol Involvement","Clear",15
+"262","Winter","Alcohol Involvement","Rain",113
+"263","Winter","Alcohol Involvement","Snow",1
+"264","Winter","Animals Action","Clear",1
+"265","Winter","Animals Action","Rain",3
+"266","Winter","Backing Unsafely","Clear",33
+"267","Winter","Backing Unsafely","Rain",181
+"268","Winter","Backing Unsafely","Snow",11
+"269","Winter","Brakes Defective","Clear",2
+"270","Winter","Brakes Defective","Rain",27
+"271","Winter","Brakes Defective","Snow",1
+"272","Winter","Cell Phone (hand-Held)","Clear",1
+"273","Winter","Cell Phone (hand-Held)","Rain",1
+"274","Winter","Driver Inattention/Distraction","Clear",271
+"275","Winter","Driver Inattention/Distraction","Rain",1489
+"276","Winter","Driver Inattention/Distraction","Snow",61
+"277","Winter","Driver Inexperience","Clear",15
+"278","Winter","Driver Inexperience","Rain",129
+"279","Winter","Driver Inexperience","Snow",8
+"280","Winter","Driverless/Runaway Vehicle","Clear",1
+"281","Winter","Driverless/Runaway Vehicle","Rain",5
+"282","Winter","Driverless/Runaway Vehicle","Snow",1
+"283","Winter","Drugs (illegal)","Clear",1
+"284","Winter","Drugs (illegal)","Rain",10
+"285","Winter","Failure to Keep Right","Rain",10
+"286","Winter","Failure to Yield Right-of-Way","Clear",75
+"287","Winter","Failure to Yield Right-of-Way","Rain",476
+"288","Winter","Failure to Yield Right-of-Way","Snow",21
+"289","Winter","Fatigued/Drowsy","Rain",4
+"290","Winter","Fell Asleep","Clear",8
+"291","Winter","Fell Asleep","Rain",33
+"292","Winter","Fell Asleep","Snow",3
+"293","Winter","Following Too Closely","Clear",71
+"294","Winter","Following Too Closely","Rain",372
+"295","Winter","Following Too Closely","Snow",14
+"296","Winter","Glare","Clear",1
+"297","Winter","Glare","Rain",13
+"298","Winter","Illnes","Rain",10
+"299","Winter","Lane Marking Improper/Inadequate","Rain",1
+"300","Winter","Lost Consciousness","Clear",3
+"301","Winter","Lost Consciousness","Rain",14
+"302","Winter","Obstruction/Debris","Clear",2
+"303","Winter","Obstruction/Debris","Rain",9
+"304","Winter","Obstruction/Debris","Snow",1
+"305","Winter","Other Electronic Device","Clear",1
+"306","Winter","Other Electronic Device","Rain",1
+"307","Winter","Other Lighting Defects","Rain",1
+"308","Winter","Other Vehicular","Clear",26
+"309","Winter","Other Vehicular","Rain",166
+"310","Winter","Other Vehicular","Snow",4
+"311","Winter","Outside Car Distraction","Clear",3
+"312","Winter","Outside Car Distraction","Rain",14
+"313","Winter","Oversized Vehicle","Clear",3
+"314","Winter","Oversized Vehicle","Rain",25
+"315","Winter","Oversized Vehicle","Snow",1
+"316","Winter","Passenger Distraction","Clear",3
+"317","Winter","Passenger Distraction","Rain",16
+"318","Winter","Passing Too Closely","Clear",48
+"319","Winter","Passing Too Closely","Rain",221
+"320","Winter","Passing Too Closely","Snow",4
+"321","Winter","Passing or Lane Usage Improper","Clear",69
+"322","Winter","Passing or Lane Usage Improper","Rain",273
+"323","Winter","Passing or Lane Usage Improper","Snow",15
+"324","Winter","Pavement Defective","Clear",1
+"325","Winter","Pavement Defective","Rain",5
+"326","Winter","Pavement Slippery","Rain",48
+"327","Winter","Pavement Slippery","Snow",1
+"328","Winter","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Clear",10
+"329","Winter","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Rain",49
+"330","Winter","Pedestrian/Bicyclist/Other Pedestrian Error/Confusion","Snow",2
+"331","Winter","Physical Disability","Rain",5
+"332","Winter","Prescription Medication","Rain",1
+"333","Winter","Reaction to Uninvolved Vehicle","Clear",6
+"334","Winter","Reaction to Uninvolved Vehicle","Rain",56
+"335","Winter","Reaction to Uninvolved Vehicle","Snow",3
+"336","Winter","Steering Failure","Clear",3
+"337","Winter","Steering Failure","Rain",19
+"338","Winter","Texting","Rain",1
+"339","Winter","Tinted Windows","Rain",2
+"340","Winter","Tire Failure/Inadequate","Rain",13
+"341","Winter","Tow Hitch Defective","Rain",1
+"342","Winter","Tow Hitch Defective","Snow",1
+"343","Winter","Traffic Control Device Improper/Non-Working","Rain",1
+"344","Winter","Traffic Control Disregarded","Clear",26
+"345","Winter","Traffic Control Disregarded","Rain",171
+"346","Winter","Traffic Control Disregarded","Snow",6
+"347","Winter","Turning Improperly","Clear",41
+"348","Winter","Turning Improperly","Rain",143
+"349","Winter","Turning Improperly","Snow",6
+"350","Winter","Unsafe Lane Changing","Clear",30
+"351","Winter","Unsafe Lane Changing","Rain",93
+"352","Winter","Unsafe Lane Changing","Snow",4
+"353","Winter","Unsafe Speed","Clear",39
+"354","Winter","Unsafe Speed","Rain",248
+"355","Winter","Unsafe Speed","Snow",10
+"356","Winter","Unspecified","Clear",276
+"357","Winter","Unspecified","Rain",1424
+"358","Winter","Unspecified","Snow",51
+"359","Winter","View Obstructed/Limited","Clear",10
+"360","Winter","View Obstructed/Limited","Rain",62
+"361","Winter","View Obstructed/Limited","Snow",4
+"362","Winter","Windshield Inadequate","Rain",1

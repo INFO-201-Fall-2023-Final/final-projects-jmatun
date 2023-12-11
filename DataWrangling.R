@@ -1,5 +1,6 @@
 library(dplyr)
 library(readr)
+library(stringr)
 
 NY_Collisions <- read.csv("MotorVehicleCollisionsCrashes.csv")
 NY_Weather <- read.csv("NYWeather.csv")
@@ -16,7 +17,7 @@ combined <- left_join(NY_Collisions_Date, NY_Weather_Date, by = c("CRASH.DATE" =
 
 # Adding the categorical and continuous variables
 combined <- combined %>% mutate(roadConditions = ifelse(windspeed >= 56 | temp <= 0 | precip > 0 | snow > 0, "dangerous", "safe")) %>% mutate(dangerRating = (windspeed / 56 * .25) + (.01 / temp + .01 * .25) + (precip / 1 * .25) + (snow / 1 * .25))
-View(combined)
+#View(combined)
 
 # Creating summary data frame 
 summary_df <- combined %>%
@@ -31,7 +32,7 @@ summary_df <- combined %>%
   )
 
 #View(summary_df)
-print("done")
+#print("done")
 
 library(dplyr)
 
@@ -53,9 +54,17 @@ weather_summary <- NY_Weather_Date %>%
   group_by(season) %>%
   mutate(percentage = count / sum(count) * 100)
  
+cause_summary <- combined %>%
+  mutate(weather = ifelse(str_detect(preciptype, "rain"), "Rain", ifelse(str_detect(preciptype, "snow"), "Snow", "Clear"))) %>%
+  group_by(season, CONTRIBUTING.FACTOR.VEHICLE.1, weather) %>%
+  summarise(
+    count = n()
+  ) 
+
+#View(cause_summary)
 #View(summary_df) 
 #View(weather_summary)
-#write.csv(weather_summary, file = "weatherSummary.csv")
+#write.csv(cause_summary, file = "causeSummary.csv")
 #write.csv(new_summary, file = "seasonSummary.csv")
 #write.csv(summary_df, file = "summary.csv")
 #write.csv(combined, file = "combinedFrame.csv")
